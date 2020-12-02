@@ -1,0 +1,12 @@
+D:\Visual Studio Project\GUIPiano\GUIPiano\bin\Debug\GUIPiano.exe.config
+D:\Visual Studio Project\GUIPiano\GUIPiano\bin\Debug\GUIPiano.exe
+D:\Visual Studio Project\GUIPiano\GUIPiano\bin\Debug\GUIPiano.pdb
+D:\Visual Studio Project\GUIPiano\GUIPiano\bin\Debug\GUIPiano.xml
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.vbprojAssemblyReference.cache
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.Form1.resources
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.Resources.resources
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.vbproj.GenerateResource.cache
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.exe
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.xml
+D:\Visual Studio Project\GUIPiano\GUIPiano\obj\Debug\GUIPiano.pdb
